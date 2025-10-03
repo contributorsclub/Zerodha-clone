@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-link{
+  margin-left: 25px;
+}
+
+.flinks a{
+  margin-left: 40px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.footerlinks a{
+  text-decoration: none;
+  opacity: 1;
+  color: grey;
+  font-weight: 500;
+}
+
+.aboutlink a{
+  text-decoration: none;
+}
+
+.varsity-image{
+  margin-right: 50px;
+  margin-left: 80px;
+}
+
+.console{
+  margin-top: -70px;
+}
+
+.support a{
+  text-decoration: none;
+}
+
+.support i{
+  font-size: large;
+}
